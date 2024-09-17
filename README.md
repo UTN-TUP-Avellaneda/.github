@@ -1,7 +1,3 @@
-Aquí tienes un ejemplo de README para la clase **C03-09 Programación III**, un curso Fullstack bajo la UTN Avellaneda:
-
----
-
 # C03-09 Programación III - Fullstack
 
 Bienvenidos al repositorio de la clase **C03-09 Programación III**. Este curso está orientado al desarrollo Fullstack y es parte del plan de estudios de la **Universidad Tecnológica Nacional (UTN) - Facultad Regional Avellaneda**.
